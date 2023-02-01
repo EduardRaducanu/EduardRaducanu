@@ -15,7 +15,7 @@ Graduated from University of Politehnica in 2021, specializing in Industrial Eng
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
 
-- 🔭 I’m currently working on improving my Web Dev skills. 
+- 🔭 I’m currently working on improving my Frontend Developer skills. 
 - 🌱 I’m currently learning JS, jQuery => React/ Angular 
 
 ### 📊 GitHub Stats
