@@ -7,7 +7,7 @@ Welcome to my page 🤗
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EduardRaducanu/)](https://www.github.com/EduardRaducanu/)
 
 ### About me: 
-Graduated from University of Politehnica in 2021, specializing in Industrial Engineering and Robotics. I am currently working on improving my skills as a Web Developer, a new-found passion I wish to dive in as much as possible, in order to create cool applications.
+Graduated from University of Politehnica in 2021, specializing in Industrial Engineering and Robotics. I am currently working on improving my skills as a Web Developer, a new-found passion I wish to dive in as much as possible, in order to create useful applications and much more.
 
 
 ### 🚀 Skills: 
@@ -20,5 +20,5 @@ Graduated from University of Politehnica in 2021, specializing in Industrial Eng
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardRaducanu&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardRaducanu&show_icons=true&theme=blue-green)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardRaducanu&theme=blue-green)](https://github.com/EduardRaducanu/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardRaducanu&show_icons=true&theme=blue-green)](https://github.com/EduardRaducanu/github-readme-stats)
