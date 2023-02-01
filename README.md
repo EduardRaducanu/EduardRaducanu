@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Eddie
-Welcome to my page 🤗
+### Hi 👋, my name is Eddie.
+Welcome to my page! 🤗
 
 #### My Socials: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduard.raducanu09@gmail.com)](mailto:eduard.raducanu09@gmail.com)
